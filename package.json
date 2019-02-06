@@ -1,5 +1,5 @@
 {
-  "name": "test-npm",
+  "name": "test-npm-dummy-training-module",
   "version": "1.0.1",
   "description": "Training for npm publish etc",
   "main": "index.js",
@@ -10,10 +10,11 @@
     "type": "git",
     "url": "git+https://github.com/a3anbw11/test-npm.git"
   },
-  "author": "",
+  "author": "John Doe <a3anbw11@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/a3anbw11/test-npm/issues"
   },
-  "homepage": "https://github.com/a3anbw11/test-npm#readme"
+  "homepage": "https://github.com/a3anbw11/test-npm#readme",
+  "keywords": []
 }
